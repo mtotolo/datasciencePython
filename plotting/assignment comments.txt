@@ -1,0 +1,15 @@
+This infographic is taken from one of the most popular Italian online news sites, IlFattoQuotidiano.it.
+Link:
+http://allnews24.org/le-migliori-infografiche-del-2016-de-il-fatto-quotidiano/
+It shows the annual emigration trend by region and compares it to the national GDP trend.
+The intented audience is of course the general public as the newspaper is a general newspaper
+
+There are at least two misleading elements: the graphic in the lower left and the one in the central part
+
+The one in the central part shows circles corresponding to the absolute number of people emigrating, divided by region.
+As you can see by comparing the first and the second biggest cirlces, it's the radius and not the area of the circle that is proportional to the numbers.
+This is misleading because it accentuates the actual data: doubling the radius is equivalent to a 4 times bigger circle. This is therefore an example of data distortion
+
+The graph in the lower left is more interesting: it distorts the data and it also hides some relevant data.
+First of all, the Y axis is cut, so the actual variation is graphically distorted.
+Secondly, the -7% variation in GDP is calculated from 2008, an all time maximum year for GDP. If it were calculated from 2007 or 2009 the variation would have been lower or even positive.

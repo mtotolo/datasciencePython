@@ -1,0 +1,51 @@
+1 	 Utah 	51%
+2 	 Mississippi 	47%
+3 	 Alabama 	46%
+4 	 Louisiana 	46%
+5 	 Arkansas 	45%
+6 	 South Carolina 	42%
+7 	 Tennessee 	42%
+8 	 Kentucky 	41%
+9 	 North Carolina 	40%
+10 	 Georgia 	39%
+11 	 Texas 	39%
+12 	 Oklahoma 	39%
+13 	 New Mexico 	36%
+14 	 Nebraska 	35%
+15 	 Indiana 	35%
+16 	 Virginia 	35%
+17 	 Delaware 	35%
+18 	 Missouri 	35%
+19 	 Idaho 	34%
+20 	 West Virginia 	34%
+21 	 Arizona 	33%
+22 	 Kansas 	33%
+23 	 Michigan 	32%
+24 	 Ohio 	32%
+25 	 Illinois 	32%
+26 	  North Dakota 	32%
+27 	 Pennsylvania 	32%
+28 	 Iowa 	32%
+29 	 Florida 	32%
+30 	 Maryland 	31%
+31 	 South Dakota 	31%
+32 	 Minnesota 	31%
+33 	 New Jersey 	30%
+34 	 Wisconsin 	29%
+35 	 Rhode Island 	28%
+36 	 Wyoming 	28%
+37 	 California 	28%
+38 	 New York 	27%
+39 	 Nevada 	27%
+40 	 Montana 	27%
+41 	 Alaska 	26%
+42 	 Connecticut 	25%
+43 	 Colorado 	25%
+44 	 Hawaii 	25%
+45 	 Oregon 	24%
+46 	 Washington 	24%
+47 	 District of Columbia 	23%
+48 	 Massachusetts 	22%
+49 	 Maine 	20%
+50 	 New Hampshire 	20%
+51 	 Vermont 	17%
